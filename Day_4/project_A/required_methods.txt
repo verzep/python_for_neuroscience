@@ -20,7 +20,6 @@ list methods:
 append()
 extend()
 
-
 Matplotlib.pyplot:
 hist()
 xlabel()
@@ -34,8 +33,8 @@ vlines()
 
 Scipy:
 shapiro() ?
-
-
+mannwhitneyu() ?
+ttest_ind ?
 
 Seaborn:
 boxplot
