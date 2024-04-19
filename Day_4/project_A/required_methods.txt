@@ -14,7 +14,7 @@ sum()
 mean()
 np.random.rand()
 quantile()
-corrcoef
+corrcoef()
 
 list methods:
 append()
@@ -30,6 +30,7 @@ plt properties: color, label, alpha
 subplot()
 tight_layout()
 vlines()
+savefig()
 
 Scipy:
 shapiro() ?
