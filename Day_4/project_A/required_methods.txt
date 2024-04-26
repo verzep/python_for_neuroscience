@@ -1,0 +1,43 @@
+Pandas:
+read_csv()
+head()
+columns()
+drop()
+
+Numpy:
+shape
+nonzero()
+diff()
+max()
+arange()
+sum()
+mean()
+np.random.rand()
+quantile()
+corrcoef()
+
+list methods:
+append()
+extend()
+
+Matplotlib.pyplot:
+hist()
+xlabel()
+ylabel()
+legend()
+title()
+plt properties: color, label, alpha
+subplot()
+tight_layout()
+vlines()
+savefig()
+
+Scipy:
+shapiro() ?
+mannwhitneyu() ?
+ttest_ind ?
+
+Seaborn:
+boxplot
+stripplot
+properties: hue, palette, dodge
